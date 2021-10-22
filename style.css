@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+
+}
+div{
+    background-color: aqua;
+    color: black;
+}
